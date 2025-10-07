@@ -1,8 +1,8 @@
 Care Queue: Personal Project
 This repository contains a personal web development project, "Care Queue." This project is a demonstration of my skills in front-end development, specifically focusing on creating a modern and intuitive user interface for a healthcare service platform.
 
-Project Purpose
-This project was developed for my personal portfolio to showcase my abilities in:
+
+Used:-
 
 HTML: Structuring and organizing web content.
 
@@ -26,5 +26,4 @@ JavaScript (for future interactive features)
 Getting Started
 The project is Still under developement so Can not view as of now
 
-License
-:-This project is not intended for public modification or contribution. All rights are reserved for personal use and portfolio demonstration.
+
